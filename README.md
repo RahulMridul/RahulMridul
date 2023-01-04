@@ -8,7 +8,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/@thisismaths9922)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
+
 [![Linkedin Badge](https://img.shields.io/badge/-Rahul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/rahul-kumar-0b92a8a0)](https://www.linkedin.com/in/rahul-kumar-0b92a8a0)
 [![Website Badge](https://img.shields.io/badge/WebSite-Rahul-green)](https://www.raglrahul.co.in)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com//users/20924359)
